@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TutorialApp</string>
+    <string name="textViewResourse">We are in a constraintLayout. I am a textView. \n You can find my text in strings.xml</string>
+</resources>
