@@ -22,6 +22,7 @@ public class EditTextActivity extends AppCompatActivity {
         String s = edit.getText().toString();
         Intent intent = new Intent(this, RecieverActivity.class);
         intent.putExtra("editText", s);
+        intent.putExtra("Number",5);
         startActivity(intent);
     }
 }

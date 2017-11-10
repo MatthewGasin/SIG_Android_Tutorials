@@ -2,4 +2,7 @@
     <string name="app_name">TutorialApp</string>
     <string name="textViewResourse">We are in a constraintLayout. I am a textView. \n You can find my text in strings.xml</string>
     <string name="title_activity_list_view">ListViewActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

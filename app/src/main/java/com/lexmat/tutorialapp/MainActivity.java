@@ -40,4 +40,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, EditTextActivity.class);
         startActivity(intent);
     }
+
+    public void moveToFragment(View view) {
+        Intent intent = new Intent(this, FragmentActivity.class);
+        startActivity(intent);
+    }
 }
